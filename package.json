@@ -11,10 +11,14 @@
   "homepage": "https://github.com/dnb-org/dnb-hugo-schema",
   "repository": "dnb-org/dnb-hugo-schema",
   "bugs": "https://github.com/dnb-org/dnb-hugo-schema/issues",
+  "dependencies": {
+    "mem": "^9.0.1",
+    "trim": "^1.0.1"
+  },
   "devDependencies": {
-    "@dnb-org/remark-config": "^3.4.2",
-    "@dnb-org/standard-version-config": "^3.4.1",
-    "@dnb-org/tools": "^3.4.1"
+    "@dnb-org/remark-config": "^3.4.7",
+    "@dnb-org/standard-version-config": "^3.4.6",
+    "@dnb-org/tools": "^3.4.8"
   },
   "scripts": {
     "clean": "run-p clean:*",
@@ -29,9 +33,5 @@
       "@dnb-org/remark-config"
     ]
   },
-  "slug": "dnb-hugo-schema",
-  "dependencies": {
-    "mem": "^9.0.1",
-    "trim": "^1.0.1"
-  }
+  "slug": "dnb-hugo-schema"
 }
