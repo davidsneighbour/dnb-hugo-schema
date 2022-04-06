@@ -16,7 +16,7 @@
     "trim": "^1.0.1"
   },
   "devDependencies": {
-    "@dnb-org/remark-config": "^3.4.7",
+    "@dnb-org/remark-config": "^3.5.11",
     "@dnb-org/standard-version-config": "^3.4.6",
     "@dnb-org/tools": "^3.4.8"
   },
