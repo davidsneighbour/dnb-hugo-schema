@@ -18,7 +18,7 @@
   "devDependencies": {
     "@dnb-org/remark-config": "^3.4.7",
     "@dnb-org/standard-version-config": "^3.4.6",
-    "@dnb-org/tools": "^3.4.8"
+    "@dnb-org/tools": "^3.5.10"
   },
   "scripts": {
     "clean": "run-p clean:*",
