@@ -1,3 +1,3 @@
-module github.com/dnb-org/dnb-hugo-schema
+module github.com/davidsneighbour/hugo-schema
 
 go 1.17
