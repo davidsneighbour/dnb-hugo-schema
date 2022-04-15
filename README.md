@@ -5,7 +5,7 @@
 
 <!--- CARD END --->
 
-# DNB GoHugo Component / Schema
+# David's Neighbour GoHugo Component / Schema
 
 ## Implemented Types
 
