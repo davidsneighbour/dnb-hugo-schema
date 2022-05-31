@@ -1,5 +1,5 @@
 {
-  "name": "dnb-hugo-schema",
+  "name": "@davidsneighbour/hugo-schema",
   "version": "0.0.2",
   "license": "MIT",
   "description": "Schema markup for GoHugo",
@@ -8,17 +8,17 @@
     "email": "patrick@davids-neighbour.com",
     "web": "https://davids-neighbour.com"
   },
-  "homepage": "https://github.com/dnb-org/dnb-hugo-schema",
-  "repository": "dnb-org/dnb-hugo-schema",
-  "bugs": "https://github.com/dnb-org/dnb-hugo-schema/issues",
+  "homepage": "https://github.com/davidsneighbour/hugo-schema",
+  "repository": "davidsneighbour/hugo-schema",
+  "bugs": "https://github.com/davidsneighbour/hugo-schema/issues",
   "dependencies": {
     "mem": "^9.0.1",
     "trim": "^1.0.1"
   },
   "devDependencies": {
-    "@dnb-org/remark-config": "^3.4.7",
-    "@dnb-org/standard-version-config": "^3.4.6",
-    "@dnb-org/tools": "^3.4.8"
+    "@davidsneighbour/remark-config": "^4.0.1",
+    "@davidsneighbour/standard-version-config": "^4.0.1",
+    "@davidsneighbour/tools": "^4.0.1"
   },
   "scripts": {
     "clean": "run-p clean:*",
@@ -30,8 +30,8 @@
   "private": true,
   "remarkConfig": {
     "plugins": [
-      "@dnb-org/remark-config"
+      "@davidsneighbour/remark-config"
     ]
   },
-  "slug": "dnb-hugo-schema"
+  "slug": "hugo-schema"
 }

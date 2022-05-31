@@ -7,4 +7,4 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Chore
 
-* initial commit, current version ([56801f5](https://github.com/dnb-org/dnb-hugo-schema/commit/56801f591f4a37cda8a7040f6bc810d23ee239d7))
+* initial commit, current version ([56801f5](https://github.com/davidsneighbour/hugo-schema/commit/56801f591f4a37cda8a7040f6bc810d23ee239d7))
