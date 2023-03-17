@@ -16,7 +16,7 @@
     "trim": "^1.0.1"
   },
   "devDependencies": {
-    "@davidsneighbour/remark-config": "^4.0.1",
+    "@davidsneighbour/remark-config": "^5.1.0",
     "@davidsneighbour/standard-version-config": "^4.0.1",
     "@davidsneighbour/tools": "^4.0.1"
   },
